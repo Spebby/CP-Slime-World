@@ -52,6 +52,7 @@ class Overworld extends Phaser.Scene {
                 end: 1
             })
         });
+        this.slime.play('jiggle');
 
         this.cameras.main.setBounds(0, 0, map.widthInPixels, map.heightInPixels);
         this.cameras.main.startFollow(this.slime, true, 0.25, 0.25);

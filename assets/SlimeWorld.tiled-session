@@ -3,10 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "tileset.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "tileset.tmx": {
+            "scale": 1.00640625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 456.07824871914295,
+                "y": 342.3070951715572
+            }
+        },
+        "tileset.tmx#tileset": {
+            "scaleInDock": 1
+        }
     },
     "last.exportedFilePath": "/home/wyatt/projects/Winter25/CMPM120/inclass/Slime-World/assets",
     "last.imagePath": "/home/wyatt/projects/Winter25/CMPM120/inclass/Slime-World/assets",
@@ -17,10 +32,12 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "tileset.tmx"
     ],
     "project": "SlimeWorld.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "tileset.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
